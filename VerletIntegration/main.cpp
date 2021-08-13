@@ -1,6 +1,8 @@
 #include <iomanip>
 #include <iostream>
 
+//reference https://www.algorithm-archive.org/contents/verlet_integration/verlet_integration.html
+
 struct timestep {
   double time;
   double vel;
